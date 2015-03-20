@@ -1,3 +1,5 @@
+#!/bin/bash
+
 # make directories to work from
 mkdir -p certs/{devices,client,ca,tmp}
 
